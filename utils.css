@@ -1,0 +1,45 @@
+.flex{
+    display: flex;
+}
+
+.container{
+    padding: 0vw 10vw;
+}
+
+.container2{
+    padding: 0vw 5vw;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.section1{
+    background-color: white;
+    /* height: 122vh; */
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
